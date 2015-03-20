@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <plurals name="devices">
+        <item quantity="zero">No devices on the current wireless network</item>
+        <item quantity="one">%1$d device on the current wireless network</item>
+        <item quantity="other">%1$d devices on the current wireless network</item>
+    </plurals>
+
+</resources>

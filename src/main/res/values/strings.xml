@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="extension_name">Displays</string>
+    <string name="application_name">Dashclock Displays Extension</string>
+    <string name="extension_info">Displays information about wireless display devices in the network</string>
+    <string name="preferences_title">Displays Extension Settings</string>
+    <string name="no_devices">No wireless display devices to cast to</string>
+    <string name="found_devices">Found wireless displays to screencast to</string>
+    <string name="displays_detected">Wireless displays detected</string>
+    <string name="cast_wirelessly">Possible to cast screen to display</string>
+
+</resources>
